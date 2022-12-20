@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding:0;
+}
+
+
+
+#container{
+    width:100%;
+    height: auto;
+    background-color: blue;
+}
+#container .main{
+    width: 100%;
+    height: auto;
+    background-color: chartreuse;
+
+
+
+}
+#container .main p{
+    font-size: 20px;
+    border: 4px dotted red;
+    height: auto;
+    width: 100%;
+}
+#container .main, .img{
+    width: 40%;
+    float:left;
+    padding-left: 60px;
+
+}
+#container .img img{
+    border: 4px inset yellow;
+    padding: 5px;
+}
+
+@media (max-width=768px){
+    #container h1{
+        color: cornflowerblue;
+    }
+
+}
+#container .main p{ 
+    font-size: 16px;
+background-color: brown;
+height: 600px;
+}
+

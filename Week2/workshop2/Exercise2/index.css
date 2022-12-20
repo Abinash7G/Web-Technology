@@ -1,6 +1,6 @@
 *{
-    
-
+    margin: 0;
+    padding: 0;
     font-family: 'Solway';
     
 }
@@ -44,7 +44,7 @@ nav ul li a:hover{
 
 }
 button{
-    background-color: beige;
+    background-color: black;
     border-radius: 100px;
     cursor: pointer;
     font-size: 16px;
@@ -54,7 +54,7 @@ button{
 
 }
 button:hover{
-    background-color: whitesmoke;
+    background-color: grey;
 }
 
 

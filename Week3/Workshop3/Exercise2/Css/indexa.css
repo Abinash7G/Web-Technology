@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Solway';
+    font: size 120px;;
+    font-weight: bolder;  
+    color:grey;
+    font-style: italic;
+    text-decoration: underline;
+}
+#paragraph1{
+    border-style:dotted;
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+
+}
+.paragraph2{
+    border-style:groove;
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+
+}
+
